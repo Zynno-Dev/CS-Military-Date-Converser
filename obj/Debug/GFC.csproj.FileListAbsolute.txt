@@ -1,0 +1,14 @@
+C:\Users\j_far\source\repos\GFC\bin\Debug\GFC.exe.config
+C:\Users\j_far\source\repos\GFC\bin\Debug\GFC.exe
+C:\Users\j_far\source\repos\GFC\bin\Debug\GFC.pdb
+C:\Users\j_far\source\repos\GFC\obj\Debug\GFC.csprojAssemblyReference.cache
+C:\Users\j_far\source\repos\GFC\obj\Debug\GFC.csproj.CoreCompileInputs.cache
+C:\Users\j_far\source\repos\GFC\obj\Debug\GFC.exe
+C:\Users\j_far\source\repos\GFC\obj\Debug\GFC.pdb
+C:\Users\Michelin\Desktop\GFC\bin\Debug\GFC.exe.config
+C:\Users\Michelin\Desktop\GFC\bin\Debug\GFC.exe
+C:\Users\Michelin\Desktop\GFC\bin\Debug\GFC.pdb
+C:\Users\Michelin\Desktop\GFC\obj\Debug\GFC.csproj.AssemblyReference.cache
+C:\Users\Michelin\Desktop\GFC\obj\Debug\GFC.csproj.CoreCompileInputs.cache
+C:\Users\Michelin\Desktop\GFC\obj\Debug\GFC.exe
+C:\Users\Michelin\Desktop\GFC\obj\Debug\GFC.pdb

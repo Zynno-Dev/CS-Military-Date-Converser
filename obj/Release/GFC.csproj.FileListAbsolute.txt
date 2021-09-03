@@ -1,0 +1,6 @@
+C:\Users\j_far\source\repos\GFC\bin\Release\GFC.exe.config
+C:\Users\j_far\source\repos\GFC\bin\Release\GFC.exe
+C:\Users\j_far\source\repos\GFC\bin\Release\GFC.pdb
+C:\Users\j_far\source\repos\GFC\obj\Release\GFC.csproj.CoreCompileInputs.cache
+C:\Users\j_far\source\repos\GFC\obj\Release\GFC.exe
+C:\Users\j_far\source\repos\GFC\obj\Release\GFC.pdb
